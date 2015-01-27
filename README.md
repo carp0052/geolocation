@@ -1,0 +1,2 @@
+# geolocation
+navigator.geolocation object
